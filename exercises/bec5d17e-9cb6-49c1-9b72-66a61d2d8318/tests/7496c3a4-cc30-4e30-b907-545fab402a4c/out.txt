@@ -1,0 +1,7 @@
+ first_name | last_name  | department_id | salario incrementado 
+------------+------------+---------------+----------------------
+ Karen      | Colmenares |            30 |             3000.000
+ Guy        | Himuro     |            30 |             3120.000
+ Sigal      | Tobias     |            30 |             3360.000
+ Shelli     | Baida      |            30 |             3480.000
+ Alexander  | Khoo       |            30 |             3720.000
