@@ -1,0 +1,9 @@
+ first_name | last_name | job_id 
+------------+-----------+--------
+ Shelley    | Higgins   | AC_MGR
+ Lex        | De Haan   | AD_VP
+ Neena      | Kochhar   | AD_VP
+ Nancy      | Greenberg | FI_MGR
+ Michael    | Hartstein | MK_MAN
+ Hermann    | Baer      | PR_REP
+ Den        | Raphaely  | PU_MAN
