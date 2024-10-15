@@ -1,0 +1,12 @@
+column_name  |data_type        |is_nullable|contype|
+-------------+-----------------+-----------+-------+
+vnulos       |integer          |NO         |       |
+vcandidaturas|integer          |NO         |       |
+vblanco      |integer          |NO         |       |
+seccion      |character varying|NO         |p      |
+mesa         |character        |NO         |p      |
+dmunicipal   |character varying|NO         |p      |
+cmunicipio   |character varying|NO         |p      |
+censo        |integer          |NO         |       |
+435          |2                |2          |B      |
+387          |1                |3          |A      |
